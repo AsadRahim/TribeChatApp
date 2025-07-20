@@ -2,8 +2,6 @@
 
 A cross-platform React Native single room chat application built with Expo, TypeScript, and Zustand.
 
-![Tribe Chat App Screenshot](./screenshots/app-screenshot.png)
-
 ## Features
 
 ### Required Features (Implemented)
